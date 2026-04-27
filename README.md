@@ -59,3 +59,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - SOAR-EDR Automation Project
 - Active Directory Project
 - SOC-AI Automation
+- <a href="https://medium.com/@naihal/creating-virtual-machine-for-dynamic-malware-analysis-63627d5fa69e"> Dynamic Malware Analysis
