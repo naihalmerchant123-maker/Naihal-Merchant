@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Firewall, Network, IP configuration                | <a href="https://github.com/naihalmerchant123-maker/pfSense-Firewall">Pfsense</a>|
 | SIEM,Log Analysis, Endpoint, Threat detection      | <a href="https://github.com/naihalmerchant123-maker/Active-Directory">Active Directory</a>|
 | EDR, SOAR, IR, Alerts, Threat detection            | <a href="https://github.com/naihalmerchant123-maker/SOAR-EDR-Project">SOAR Automation</a>|
-| AI\LLMs, IR, threat enrichment                     | <a href="https://github.com/naihalmerchant123-maker/SOC-AI-Automation">SOC-AI Automation</a>|
+| AI\LLMs, IR, threat enrichment, programming        | <a href="https://github.com/naihalmerchant123-maker/SOC-AI-Automation">SOC-AI Automation</a>|
 
 
 ## Tools
